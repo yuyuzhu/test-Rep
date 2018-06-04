@@ -11,3 +11,7 @@ add dev3
 
 add dev4
 add dev5
+<<<<<<< HEAD
+=======
+add dev6
+>>>>>>> dev
